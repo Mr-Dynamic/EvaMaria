@@ -50,18 +50,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 
 ## Deploy
-You can deploy this bot anywhere.
-
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="[https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI](https://heroku.com/deploy?template=https://github.com/Mr-Dynamic/EvaMaria)">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mr-Dynamic/EvaMaria)
 
 <details><summary>Deploy To VPS</summary>
 <p>
